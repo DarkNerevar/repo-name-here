@@ -1,1 +1,1 @@
-int x = "Rubber Ducky new commit";
+int x = "Rubber Ducky";
